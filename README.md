@@ -88,23 +88,40 @@ The remaining repositories that contain Guld-related code have an average of 5 c
 The code in these repositories does not represent a mature implementation, and is not a meaningful technical contribution. Most of the ideas described in The Whitepaper are not implemented here.
 
 SOURCES:
+
 1 https://github.com/guldcoin
+
 2 https://guld.io/docs/guld-whitepaper.pdf
+
 3 https://www.algorand.com/​ implemented, benchmarked: https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf
+
 4 https://www.forbes.com/sites/forbestechcouncil/2018/01/25/developments-and-adoption-of-blockchain -in-the-u-s-federal-government/
+
 5 https://www.economist.com/sites/default/files/plymouth.pdf
+
 6 https://bitcoin.stackexchange.com/questions/3536/how-do-bitcoin-clients-find-each-other
+
 7 https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+
 8 https://en.wikipedia.org/wiki/Web_of_trust​ and ​https://en.wikipedia.org/wiki/Public_key_infrastructure 
+
 9 We have preserved a copy of python-guldlib for reference.
+
 10 https://nets.ec/Command_Injection
+
 11 https://www.gnupg.org/
+
 12 For an overview of the service GnuPG provides, see
 https://georgebrock.github.io/talks/pretty-good-introduction/
+
 13 https://pypi.python.org/pypi/gnupg
-14 https://wiki.gnupg.org/APIs​ and h​ ttps://pypi.python.org/pypi/gnupg 15
-https://github.com/guldcoin/python-guldlib/blob/8b2b096f294c763849341c7d384252ae9868454d/guldl ib.py
+
+14 https://wiki.gnupg.org/APIs​ and h​ ttps://pypi.python.org/pypi/gnupg
+
+15 https://github.com/guldcoin/python-guldlib/blob/8b2b096f294c763849341c7d384252ae9868454d/guldl ib.py
+
 16 These are “code smells” https://blog.codinghorror.com/code-smells/​ - these are widely recognized to indicate poor code quality and to correlate with presence of bugs and vulnerabilities.
+
 17 https://www.ledger-cli.org/
 
 ￼18 https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/
